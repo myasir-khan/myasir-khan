@@ -1,4 +1,4 @@
-<img src='./src/assets/BannerYasir.png'/>
+<img src='./src/assets/BannerYasir.png' alt="Banner Yasir Khan/>
  <!-- ![A test image]<img src="https://drive.google.com/file/d/1LpW6J9iQ_rU7LBs1JVgjKFqTRHGqVQJI/view?usp=sharing"/> -->
  <hr></hr>
 <p align="center">
