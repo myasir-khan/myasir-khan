@@ -3,14 +3,38 @@
  <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Mohammad Yasir Khan! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React JS, Typescript, Node JS, GCP, AWS, Github CI/CD... <br>
-    :notebook: I’m currently learning DS and Algo... 😭  <br>
-    :email:	myasirkhan575@gmail.com <br>
-    :art: Portfolio: https://yasir-portfolio.netlify.app/ <br>
-    :briefcase: LinkedIn: http://www.linkedin.com/in/myasirkhan575 <br>
-                <!-- Twitter: https://twitter.com/saadpastadev?lang=en -->
+   # Hi, I'm Mohammad Yasir Khan! 👋  
+
+🚀 **Software Developer | Backend & Frontend Engineer | Cloud Enthusiast**  
+
+I’m passionate about building scalable, high-performance applications and crafting seamless user experiences. I enjoy solving complex problems and continuously learning new technologies to sharpen my skills.  
+
+---
+
+### 🔥 Tech Stack & Tools
+- **Languages & Frameworks:** JavaScript, TypeScript, React.js, Node.js, Express.js  
+- **Cloud & DevOps:** Google Cloud Platform (GCP), AWS, Docker, Kubernetes, GitHub Actions (CI/CD)  
+- **Databases:** PostgreSQL, MongoDB  
+- **Others:** REST APIs, GraphQL, Microservices, Stripe Integration  
+
+---
+
+### 📚 Currently Learning  
+- Advanced **Data Structures & Algorithms** 🧩  
+- System Design & Scalable Architectures ⚡  
+
+---
+
+### 🌐 Connect With Me  
+📩 **Email:** [myasirkhan575@gmail.com](mailto:myasirkhan575@gmail.com)  
+🎨 **Portfolio:** [yasir-portfolio.netlify.app](https://yasir-portfolio.netlify.app/)  
+💼 **LinkedIn:** [linkedin.com/in/myasirkhan575](http://www.linkedin.com/in/myasirkhan575)  
+💻 **GitHub:** [github.com/myasir-fihan](https://github.com/myasir-khan)  
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
   </samp>
 </p>
 <!-- <p align="center">
