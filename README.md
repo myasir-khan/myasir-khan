@@ -29,7 +29,7 @@ I’m passionate about building scalable, high-performance applications and craf
 📩 **Email:** [myasirkhan575@gmail.com](mailto:myasirkhan575@gmail.com)  
 🎨 **Portfolio:** [yasir-portfolio.netlify.app](https://yasir-portfolio.netlify.app/)  
 💼 **LinkedIn:** [linkedin.com/in/myasirkhan575](http://www.linkedin.com/in/myasirkhan575)  
-💻 **GitHub:** [github.com/myasir-fihan](https://github.com/myasir-khan)  
+💻 **GitHub:** [github.com/myasir-khan](https://github.com/myasir-khan)  
 
 ---
 
