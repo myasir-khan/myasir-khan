@@ -37,6 +37,8 @@ I’m passionate about building scalable, high-performance applications and craf
 
   </samp>
 </p>
+
+
 <!-- <p align="center">
   <br/>
   <a href="https://github.com/m-yasir-khan">
@@ -112,11 +114,11 @@ I’m passionate about building scalable, high-performance applications and craf
   </samp>
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://cdn.jsdelivr.net/gh/leedom92/leedom92/src/github-contribution-grid-snake.svg">
     <img width="100%" src="https://cdn.jsdelivr.net/gh/leedom92/leedom92/src/github-contribution-grid-snake.svg" />
   </a>
-</div>
+</div> -->
 
 
 
