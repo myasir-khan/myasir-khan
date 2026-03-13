@@ -1,152 +1,278 @@
-<img src='./src/assets/BannerYasir.png' alt="Banner Yasir Khan"/>
- <!-- ![A test image]<img src="https://drive.google.com/file/d/1LpW6J9iQ_rU7LBs1JVgjKFqTRHGqVQJI/view?usp=sharing"/> -->
- <hr></hr>
-<p align="center">
-  <samp>
-   # Hi, I'm Mohammad Yasir Khan! 👋  
+<div align="center">
 
-🚀 **Software Developer | Backend & Frontend Engineer | Cloud Enthusiast**  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Yasir+Khan&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
 
-I’m passionate about building scalable, high-performance applications and crafting seamless user experiences. I enjoy solving complex problems and continuously learning new technologies to sharpen my skills.  
+<!-- TYPING ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=36&lines=Senior+Full+Stack+Developer;DevOps+Engineer+%7C+Cloud+Architect;AI+%26+LLM+Integration+Specialist;MERN+%7C+TypeScript+%7C+AWS+%7C+GCP+%7C+K8s" alt="Typing SVG"/>
 
----
+<br/>
 
-### 🔥 Tech Stack & Tools
-- **Languages & Frameworks:** JavaScript, TypeScript, React.js, Node.js, Express.js  
-- **Cloud & DevOps:** Google Cloud Platform (GCP), AWS, Docker, Kubernetes, GitHub Actions (CI/CD)  
-- **Databases:** PostgreSQL, MongoDB  
-- **Others:** REST APIs, GraphQL, Microservices, Stripe Integration  
+<!-- PROFILE QUICK STATS -->
+<table border="0" align="center">
+<tr>
+<td align="center"><b>📍 Location</b><br/>Karachi, Pakistan</td>
+<td align="center"><b>🏢 Current</b><br/>Aretec Inc, USA (Remote)</td>
+<td align="center"><b>🎓 Education</b><br/>M.S. Data Science · NED Univ</td>
+<td align="center"><b>⚡ Experience</b><br/>5+ Years</td>
+<td align="center"><b>🟢 Status</b><br/>Available for Hire</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 📚 Currently Learning  
-- Advanced **Data Structures & Algorithms** 🧩  
-- System Design & Scalable Architectures ⚡  
-
----
-
-### 🌐 Connect With Me  
-📩 **Email:** [myasirkhan575@gmail.com](mailto:myasirkhan575@gmail.com)  
-🎨 **Portfolio:** [yasir-portfolio.netlify.app](https://yasir-portfolio.netlify.app/)  
-💼 **LinkedIn:** [linkedin.com/in/myasirkhan575](http://www.linkedin.com/in/myasirkhan575)  
-💻 **GitHub:** [github.com/myasir-khan](https://github.com/myasir-khan)  
-
----
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
-
-  </samp>
+<!-- SOCIAL LINKS -->
+<p>
+  <a href="https://linkedin.com/in/myasirkhan575" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/myasir-khan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://myasir-khan.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:myasirkhan575@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+<!-- FREELANCE PLATFORMS -->
+<p>
+  <a href="https://www.fiverr.com/users/myasirkhan575/" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~0171af85b153f7da87?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+</p>
 
-<!-- <p align="center">
-  <br/>
-  <a href="https://github.com/m-yasir-khan">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-yasir-khan&count_private=true&show_icons=true&hide=&title_color=ffc001&text_color=ffc001&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="m-yasir-khan GitHub stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/m-yasir-khan">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yasir-khan&stroke=ffc001&background=000000&ring=ffc001&fire=ffc001&currStreakNum=ffc001&currStreakLabel=ffc001&sideNums=ffc001&sideLabels=ffc001&dates=ffc001&hide_border=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/m-yasir-khan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yasir-khan&layout=compact&count_private=true&show_icons=true&hide=&title_color=ffc001&text_color=ffc001&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true&width=500" />
-  </a>
-</p> -->
+<!-- AVAILABILITY STRIP -->
+<p>
+  <img src="https://img.shields.io/badge/🟢_Available_for_Remote_Roles-20_3a_20?style=flat-square&labelColor=161b22&color=238636&label="/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to-US_%7C_Canada_%7C_UAE_%7C_Gulf-1f6feb?style=flat-square&labelColor=161b22"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=myasir-khan&color=58a6ff&style=flat-square&label=Profile+Views"/>
+</p>
 
-<!-- <table border="none">
-<tr>
-<td valign="top" width="33%">
-<div align="center"> 
-<h3>Frontend</h3>
-</div> 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## `$ whoami`
 
+```json
+{
+  "name":           "Yasir Khan",
+  "handle":         "@myasir-khan",
+  "role":           "Senior Full Stack Developer & DevOps Engineer",
+  "experience":     "5+ years (remote, US-based companies)",
+  "current":        "Aretec Inc — USA (Remote)",
+  "education":      "M.S. Data Science — NED University 2024",
+  "stack":          ["React.js", "Node.js", "TypeScript", "PostgreSQL", "MongoDB"],
+  "cloud":          ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"],
+  "ai":             ["LLM APIs", "Dialogflow", "Google AI", "IBM Watson"],
+  "certifications": ["Google AI Essentials", "IBM Cognitive AI Chatbot"],
+  "location":       "Karachi, PK → Remote Worldwide",
+  "available":      true
+}
+```
 
-<div align="center"> 
-<h3>Backend</h3>
-</div>  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+---
+
+## `$ cat achievements.log`
+
+<div align="center">
+
+|  | Metric | Impact |
+|--|--------|--------|
+| ⚡ | CI/CD Pipeline Automation | **80% faster** deployments — 2hrs → 20min |
+| 🗄️ | PostgreSQL + Redis Optimization | **60% API latency** reduction |
+| ☁️ | Cloud Infrastructure (AWS + GCP) | **99.9% uptime SLA** maintained |
+| 🧩 | Microservices Migration | **40% scalability** boost |
+| 🚀 | Web App Performance | **55% faster** via code splitting & memoization |
+| 💳 | Stripe Payments (diSearch) | **$50K+/month** transactions processed |
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
-<div align="center"> 
-<h3>DevOps</h3>
-</div> 
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
+## `$ cat stack.json | jq .`
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=azurepipelines&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### AI & Integrations
+![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM_Watson-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+### AI Tools I Use Daily
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![v0](https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
-</td></tr></table>  
+---
 
-<br/>   -->
-  <!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-<p align="center">
-  <samp>
-    <a href="https://leedom.me">me</a> .
-    <a href="https://blog.leedom.me">blog</a> .
-    <a href="https://docs.leedom.me">docs</a> .
-    <a href="https://pinyin.leedom.me">pinyin</a>
-  </samp>
-</p> -->
+## `$ git log --oneline --graph -- projects/`
 
-<!-- <div align="center">
-  <a href="https://cdn.jsdelivr.net/gh/leedom92/leedom92/src/github-contribution-grid-snake.svg">
-    <img width="100%" src="https://cdn.jsdelivr.net/gh/leedom92/leedom92/src/github-contribution-grid-snake.svg" />
-  </a>
-</div> -->
+```
+* a3f2d1c (HEAD → main)  🔍  diSearch         — AI Enterprise Search · GCP Marketplace · 2K+ users
+* 9b4e7f2                ✍️  PensDown          — AI Document & Content Generation Platform
+* d81c3a9                ⚖️  EvalAI            — Gov Proposal Evaluation · Compliance · Audit Trail
+* 3f9d2b1                🧠  Context           — Multi-Modal AI · Video · Doc · Vision · Speech
+* 7a2e4c8                💬  Jakmet AI         — Chat with Files via LLMs · 500+ users
+* c5f1d3e                🏗️  MERN Micro Kit    — Production Boilerplate · 200+ devs · Open Source
+* 2b8a7f4                📡  NeuralOps         — AI Infrastructure Monitor · K8s Observability
+* e4d9c2a                🔒  VaultGuard        — Zero-Trust IAM · Enterprise Security
+```
+
+### 🔍 diSearch — AI-Powered Enterprise Search
+> **Published on Google Cloud Marketplace** · TypeScript · React · Node.js · GCP · Kubernetes · LLM APIs
+
+Combines active governance, enterprise search, and large language models to deliver highly accurate results across an organization's entire knowledge base. Document Chat, semantic retrieval, and $50K+/month Stripe transactions.
+
+### ✍️ PensDown — AI Document & Content Platform
+> **Live** · TypeScript · Next.js · Node.js · LLM APIs · PostgreSQL · Redis
+
+Slashes content production time by 50%+ with LLM writing, reusable templates, 80% faster outlines, and seamless co-authoring. Deeply integrated with the diSearch platform.
+
+### ⚖️ EvalAI — Proposal Evaluation Platform
+> **Live · Government & Enterprise** · TypeScript · React · Node.js · PostgreSQL · GCP
+
+Streamlines government agency evaluation with Compliance Matrix, Scoring Rubrics, Document Comparison, Risk Assessment, and a full Audit Trail.
+
+### 🧠 Context — Multi-Modal AI Analytics Suite
+> **Live** · JavaScript · Node.js · React · Google Doc AI · Vision AI · Speech API · GCP
+
+6 AI modules: Video AI (shot/object/text detection), Document AI (OCR, extraction), Vision AI, Speech-to-Text, Tabular Data pipelines, and Knowledge Graph with 100s of integrations.
+
+---
+
+## `$ cat experience.yaml`
+
+```yaml
+experience:
+  - company:    "Aretec Inc"
+    location:   "USA (Remote)"
+    role:       "Senior Full Stack Developer & DevOps Engineer"
+    period:     "Jan 2023 — Present"
+    highlights:
+      - "Led MERN microservices migration → 40% scalability boost"
+      - "Automated CI/CD with Jenkins & GitHub Actions → 83% faster releases"
+      - "PostgreSQL + Redis optimization → 60% API latency reduction"
+      - "Maintained 99.9% uptime SLA on AWS & GCP via K8s"
+      - "Terraform IaC for auditable cloud provisioning"
+
+  - company:    "Entrollics LLC"
+    location:   "USA (Remote)"
+    role:       "Full Stack Engineer"
+    period:     "Jan 2022 — Dec 2022"
+    highlights:
+      - "React analytics dashboards → 25% faster client onboarding"
+      - "Dialogflow + IBM Watson chatbots → 40% better support response"
+      - "UI/UX overhaul → satisfaction 3.8 → 4.6/5"
+
+  - company:    "Mach3BI"
+    location:   "USA (Remote)"
+    role:       "Full Stack Developer"
+    period:     "Jan 2019 — Dec 2021"
+    highlights:
+      - "MERN app performance → 55% improvement"
+      - "REST API dashboards for 5,000+ daily active users"
+      - "Google BigQuery SaaS → 30% faster report generation"
+```
+
+---
+
+## `$ cat education.txt`
+
+```
+🎓  M.S. Data Science          NED University of Engineering & Technology  2023–2024
+🎓  B.S. Computer Science      Federal University of Science & Technology   2017–2021
+🏅  Google AI Essentials        Coursera / Google
+🏅  Chatbot AI Certification    IBM Cognitive
+🏅  Web & Mobile Development    Saylani Mass IT Training
+```
+
+---
+
+## `$ github-stats --user myasir-khan`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=myasir-khan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=a371f7&count_private=true"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myasir-khan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=myasir-khan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=a371f7"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=myasir-khan&bg_color=0d1117&color=58a6ff&line=3fb950&point=a371f7&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## `$ ping yasir --connect`
+
+<div align="center">
+
+| Channel | Link |
+|---------|------|
+| 📩 Email | [myasirkhan575@gmail.com](mailto:myasirkhan575@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/myasirkhan575](https://linkedin.com/in/myasirkhan575) |
+| 💻 GitHub | [github.com/myasir-khan](https://github.com/myasir-khan) |
+| 🌐 Portfolio | [myasir-khan.github.io](https://myasir-khan.github.io) |
+| 📍 Location | Karachi, Pakistan · Open to Remote / Relocation: US · Canada · UAE |
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+
+*"First, solve the problem. Then, write the code."*
+
+**— Yasir Khan · Senior Full Stack Developer & DevOps Engineer**
 
 
 
-<!--
-![Leedom's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedom92&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=30,e96443,904e95)
-
-![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
-![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
-![](https://img.shields.io/badge/-JavaScript-fcdc00?style=flat-square&logo=JavaScript&labelColor=fcdc00&logoColor=000)
-![](https://img.shields.io/badge/-Vue.js-34495d?style=flat-square&logo=Vue.js&labelColor=34495d)
-![](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=React&labelColor=282c34)
-![](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=Node.js&logoColor=fff)
--->
-
-<!--
-![](https://img.shields.io/badge/-Svelte-fff?style=flat-square&logo=Svelte&labelColor=fff)
--->
-<!--
-**myasir-khan/myasir-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
